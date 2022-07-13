@@ -1,0 +1,4 @@
+node_modules
+*.json
+__pycache__/
+downloaded_packages
