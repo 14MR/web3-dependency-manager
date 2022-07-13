@@ -1,4 +1,4 @@
 node_modules
-*.json
+filename_to_cid.json
 __pycache__/
 downloaded_packages
